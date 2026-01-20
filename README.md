@@ -1,6 +1,6 @@
-# Relatório AWS - Redução de Custos
+# Relatório AWS - Redução de Custos em Farmácias
 
-Relatório técnico de implementação de serviços AWS focados em otimização e redução de custos operacionais para a empresa DIO.
+Relatório técnico de implementação de serviços AWS focados em otimização e redução de custos operacionais de TI para farmácias.
 
 ## 📋 Descrição
 
@@ -8,7 +8,7 @@ Este repositório contém um exercício realizado durante o desafio **Redução 
 
 ## 🎯 Objetivo
 
-Documentar o processo de implementação de ferramentas AWS com foco na diminuição de custos imediatos, apresentando casos de uso práticos e resultados esperados.
+Documentar o processo de implementação de ferramentas AWS com foco na diminuição de custos imediatos de infraestrutura de TI em farmácias, apresentando casos de uso práticos aplicados ao setor farmacêutico (e-commerce, gestão documental e controle orçamentário) e resultados esperados.
 
 ## 📄 Conteúdo
 
@@ -16,9 +16,9 @@ Documentar o processo de implementação de ferramentas AWS com foco na diminui�
 
 ## 💡 Serviços AWS Implementados
 
-1. **Amazon EC2 Auto Scaling** - Dimensionamento automático de recursos
-2. **Amazon S3 Intelligent-Tiering** - Otimização de armazenamento
-3. **AWS Cost Explorer** - Monitoramento de custos em tempo real
+1. **Amazon EC2 Auto Scaling** - Dimensionamento automático para plataforma de e-commerce farmacêutico
+2. **Amazon S3 Intelligent-Tiering** - Otimização de armazenamento de receitas médicas e documentos fiscais
+3. **AWS Cost Explorer** - Monitoramento de custos de infraestrutura farmacêutica
 
 ## 👤 Autor
 
